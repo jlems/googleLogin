@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "androidlogin2-30386",
+    "project_number": "411221615785",
+    "name": "AndroidLogin2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411221615785:android:27d689d63f1b7a06",
+        "client_id": "android:com.google.samples.quickstart.signin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411221615785-sg5dmht4cavf8876nbktptgta3hbkj91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "C75567799C7AF6FA29666BDD49D74888040BBA0D"
+          }
+        },
+        {
+          "client_id": "411221615785-07r20stkkefnpk5cq8qikt7gutrb800i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
