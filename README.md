@@ -1,5 +1,5 @@
 #Google login application for EC 500 C1
-By Jose Lemus [Add names Here]
+By Huanyu Ding, Jose Lemus, Nicholas Memme, Zachery Sarkis
 
 Release notes:
 Using the googleapi as a skeleton for our application, we made an 
